@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akshat Saini a Software Engineer.
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on Python and Deep Learning projects.
+- 📫 contact on me sainiakshat0@gmail.com
