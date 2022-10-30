@@ -3,3 +3,4 @@
 - 👀 I’m interested in Python projects.
 - 🌱 I’m currently working with Flask & MongodB.
 - 💞️ I’m looking to collaborate on Python projects.
+- 📧 connect me on sainiakshat0@gmail.com
